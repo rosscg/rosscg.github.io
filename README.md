@@ -6,12 +6,14 @@ Next Steps:
  * Workflow to publish Tweet?
  * Look into collections - https://jekyllrb.com/docs/collections/
  * Pagination - https://jekyllrb.com/docs/pagination/
+ * Custom sitemap.xml example: https://github.com/jmcglone/jmcglone.github.io/blob/master/sitemap.xml
 
 Alternative Themes:
   * https://github.com/mmistakes/minimal-mistakes
   * https://github.com/mmistakes/so-simple-theme
   * https://github.com/mmistakes/jekyll-theme-basically-basic
   * https://github.com/holman/left
+  * https://github.com/jmcglone/jmcglone.github.io
 
 Alternative Blog Options:
   * Hugo + Netlify
