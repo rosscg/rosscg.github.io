@@ -1,4 +1,5 @@
 ---
+permalink: /feed3.xml
 layout: none
 ---
 <?xml version="1.0" encoding="UTF-8"?>
@@ -8,14 +9,14 @@ layout: none
 		<description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
 		<link>{{ site.url }}</link>
 		<atom:link href="{{ site.url }}/feed3.xml" rel="self" type="application/rss+xml" />
-    <image>
-     <url>https://avatars3.githubusercontent.com/u/17883828?s=460</url>
-     <title>{{ site.name | xml_escape }}</title>
-     <link>{{ site.url }}</link>
-     <width>32</width>
-     <height>32</height>
-     <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
-   </image>
+		<image>
+				<url>https://avatars3.githubusercontent.com/u/17883828?s=460</url>
+				<title>{{ site.name | xml_escape }}</title>
+				<link>{{ site.url }}</link>
+				<width>32</width>
+				<height>32</height>
+				<description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
+		</image>
 		{% for post in site.posts limit:10 %}
 			<item>
 				<title>{{ post.title | xml_escape }}</title>
