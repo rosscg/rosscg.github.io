@@ -1,5 +1,10 @@
 {
  "name": "App",
+ "short_name": "App",
+ "start_url": ".",
+ "display": "standalone",
+ "background_color": "#fff",
+ "description": "Ross Gales",
  "icons": [
   {
    "src": "\/images\/icons\/android-icon-36x36.png",
