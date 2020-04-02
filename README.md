@@ -28,3 +28,4 @@ References:
   * Custom feeds
     * https://gist.github.com/roachhd/f664d2cae2da899be3f6
     * https://github.com/git/git.github.io/blob/master/feed.xml
+    * Feed validator - http://www.feedvalidator.org
