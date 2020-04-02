@@ -1,13 +1,12 @@
 Next Steps:
- * Add favicon, for RSS feed? apple-touch-icon.png favicon.ico
- * Link to main domain name
+ * Link to main domain name or link to CS
  * Consider moving content from CS server
  * Medium workflow integration
  * Workflow to publish Tweet?
  * Look into collections - https://jekyllrb.com/docs/collections/
  * Pagination - https://jekyllrb.com/docs/pagination/
- * Custom sitemap.xml example: https://github.com/jmcglone/jmcglone.github.io/blob/master/sitemap.xml
- * Fix favicons - https://realfavicongenerator.net/favicon_checker#.XoXt7S2ZNTY
+ * Update Avatar
+ * Update favicons - https://realfavicongenerator.net/favicon_checker#.XoXt7S2ZNTY
 
 Alternative Themes:
   * https://github.com/mmistakes/minimal-mistakes
@@ -32,3 +31,4 @@ References:
     * Feed validator - http://www.feedvalidator.org
   * Favicon Checking - https://realfavicongenerator.net/favicon_checker#.XoXt7S2ZNTY
     * https://developer.yoast.com/safari-pinned-tab-icon-mask-icon/
+  * Custom sitemap.xml example: https://github.com/jmcglone/jmcglone.github.io/blob/master/sitemap.xml
