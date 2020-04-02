@@ -7,6 +7,7 @@ Next Steps:
  * Look into collections - https://jekyllrb.com/docs/collections/
  * Pagination - https://jekyllrb.com/docs/pagination/
  * Custom sitemap.xml example: https://github.com/jmcglone/jmcglone.github.io/blob/master/sitemap.xml
+ * Fix favicons - https://realfavicongenerator.net/favicon_checker#.XoXt7S2ZNTY
 
 Alternative Themes:
   * https://github.com/mmistakes/minimal-mistakes
