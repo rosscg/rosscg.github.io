@@ -25,3 +25,6 @@ References:
   * https://jekyllrb.com/resources/
   * https://help.github.com/en/github/working-with-github-pages/about-github-pages-and-jekyll
   * Blog directory - http://jmcglone.com/guides/github-pages/
+  * Custom feeds
+    * https://gist.github.com/roachhd/f664d2cae2da899be3f6
+    * https://github.com/git/git.github.io/blob/master/feed.xml
