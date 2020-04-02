@@ -1,4 +1,6 @@
-Next Steps:
+This is a preliminary setup of blog, forked from jekyll-now.
+
+### Next Steps:
  * Link to main domain name or link to CS
  * Consider moving content from CS server
  * Medium workflow integration
@@ -8,19 +10,19 @@ Next Steps:
  * Update Avatar
  * Update favicons - https://realfavicongenerator.net/favicon_checker#.XoXt7S2ZNTY
 
-Alternative Themes:
+### Alternative Themes:
   * https://github.com/mmistakes/minimal-mistakes
   * https://github.com/mmistakes/so-simple-theme
   * https://github.com/mmistakes/jekyll-theme-basically-basic
   * https://github.com/holman/left
   * https://github.com/jmcglone/jmcglone.github.io
 
-Alternative Blog Options:
+### Alternative Blog Options:
   * Hugo + Netlify
   * RMarkdown / Blogdown https://bookdown.org/yihui/blogdown/
 
-References:
-  * https://github.com/barryclark/jekyll-now
+### References:
+  * Forked from: https://github.com/barryclark/jekyll-now
     * http://www.jekyllnow.com
   * https://jekyllrb.com/resources/
   * https://help.github.com/en/github/working-with-github-pages/about-github-pages-and-jekyll

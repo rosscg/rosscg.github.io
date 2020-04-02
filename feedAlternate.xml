@@ -7,7 +7,7 @@ layout: none
 		<title>{{ site.name | xml_escape }}</title>
 		<description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
 		<link>{{ site.url }}</link>
-		<atom:link href="{{ site.url }}/feed3.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="{{ site.url }}/feedAlternate.xml" rel="self" type="application/rss+xml" />
 		<image>
 				<url>https://avatars3.githubusercontent.com/u/17883828?s=460</url>
 				<title>{{ site.name | xml_escape }}</title>
