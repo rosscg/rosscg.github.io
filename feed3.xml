@@ -9,9 +9,8 @@ layout: none
 		<description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
 		<link>{{ site.url }}</link>
 		<atom:link href="{{ site.url }}/feed3.xml" rel="self" type="application/rss+xml" />
-
     <image>
-        <description>Git Rev News</description
+        <description>Git Rev News</description>
         <url>http://jekyllrb.com/img/logo-rss.png</url>
         <title>Git Rev News</title>
         <link>https://git.github.io/rev_news/</link>
