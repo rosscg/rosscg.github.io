@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Welcome To...' App
+title: \'Welcome To...\' App
 ---
 
 ['Welcome To...'](https://boardgamegeek.com/boardgame/233867/welcome) is a 'Roll and Write' game, where players compete to build the best 1950s American town.
