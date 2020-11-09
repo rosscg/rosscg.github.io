@@ -16,9 +16,11 @@ This is a preliminary setup of blog, forked from jekyll-now.
   * https://github.com/mmistakes/jekyll-theme-basically-basic
   * https://github.com/holman/left
   * https://github.com/jmcglone/jmcglone.github.io
+  * https://github.com/academicpages/academicpages.github.io
+  * https://github.com/alshedivat/al-folio
 
 ### Alternative Blog Options:
-  * Hugo + Netlify
+  * Hugo + Netlify   e.g. https://github.com/gcushen/hugo-academic
   * RMarkdown / Blogdown https://bookdown.org/yihui/blogdown/
 
 ### References:
