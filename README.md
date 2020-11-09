@@ -1,5 +1,7 @@
 This is a preliminary setup of blog, forked from jekyll-now.
 
+Run locally with command `jekyll serve --livereload`
+
 ### Next Steps:
  * Link to main domain name or link to CS
  * Consider moving content from CS server
