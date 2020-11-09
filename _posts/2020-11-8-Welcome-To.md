@@ -10,6 +10,7 @@ Roll and write games provide each player with a sheet of paper and pencil with w
 [**Card Dealer for 'Welcome To'**]({{ site.baseurl }}/welcometo/WelcomeTo.html){:target="_blank"}
 
 ![Welcome To App](/images/posts/welcometo.png =200x)
+<img src="/images/posts/welcometo.png" alt="Welcome To App" width="200"/>
 
 A digital scoresheet app can be downloaded for [iOS](https://apps.apple.com/us/app/welcome-to-your-perfect-home/id1358077007) or [Android](https://play.google.com/store/apps/details?id=com.bluecocker.welcome).
 
