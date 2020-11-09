@@ -3,5 +3,4 @@ layout: post
 title: Welcome To
 ---
 
-[Card Dealer for 'Welcome To']({{ site.baseurl }}/welcometo/WelcomeTo.html)
-<a href="{{ site.baseurl }}/welcometo/WelcomeTo.html" target="_blank">Card Dealer for 'Welcome To'</a>
+[Card Dealer for 'Welcome To']({{ site.baseurl }}/welcometo/WelcomeTo.html){:target="_blank"}
