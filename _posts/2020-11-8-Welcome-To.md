@@ -7,7 +7,7 @@ title: Welcome To... App
 
 Roll and write games provide each player with a sheet of paper and pencil with which to record their decisions, and a set of variables are generated each turn. Traditionally, this is done with a set of dice (hence the term 'roll'); in 'Welcome To...', several decks of cards are used. This app replicates the drawing of these cards.
 
-[**Launch Card Dealer for 'Welcome To'**]({{ site.baseurl }}/welcometo/WelcomeTo.html){:target="_blank"}
+[**Launch Card Dealer for 'Welcome To'**]({{ site.baseurl }}/apps/WelcomeTo.html){:target="_blank"}
 
 <img src="/images/posts/welcome-to.png" alt="Welcome To App" width="250"/>
 
