@@ -6,6 +6,12 @@ Create a virtual ant farm and compete with your friends.
 
 [**<<LAUNCH ANTSOLATION>>**]({{ site.baseurl }}/apps/Antsolation.html){:target="_blank"}
 
+Note: importing and exporting ants is currently not supported for browser version -- download an executable instead.
+
+[**Download for Mac**]({{ site.baseurl }}/apps/AntsolationMac.dmg){:target="_blank"}
+
+[**Download for Windows**]({{ site.baseurl }}/apps/AntsolationWin.zip){:target="_blank"}
+
 <iframe width="800" height="450" src="https://www.youtube.com/embed/y299m0jmlbo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### Instructions:
