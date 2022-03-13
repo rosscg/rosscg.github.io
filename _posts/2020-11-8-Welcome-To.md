@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Welcome To... App
+image:  /images/posts/welcome-to.png
+tags:   gamedev
+excerpt: Card drawing app for the board game 'Welcome To...'
 ---
 
 *'Welcome To...'* is a 'roll and write' game designed by Benoit Tupin, where players are architects in 1950s America competing to build the most desirable suburb.

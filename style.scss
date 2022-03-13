@@ -283,6 +283,41 @@ footer {
   text-align: center;
 }
 
+// Added from themefisher/kross-jekyll, though not used
+.card-lg {
+  flex-direction: row-reverse;
+  align-items: center;
+
+  @include desktop {
+    flex-direction: column;
+  }
+}
+
+
+// image wrapper to force image cropping
+.image-wrapper {
+  width: 100%;
+  height: 270px;
+  overflow: hidden;
+  position: relative;
+  // background-color: $black;
+}
+
+// Set centered crop
+.image-wrapper img {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+// unify card height
+.card-body{
+  padding-top: 0;
+  margin-top: 0;
+  height: 146px;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";

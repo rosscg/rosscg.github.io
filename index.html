@@ -4,6 +4,19 @@ layout: default
 
 {% include bio.html %}
 
+<!-- blog -->
+<section class="section">
+  <div class="container">
+    <div class="row">
+      {% for post in site.posts %}
+      {% include post-card.html %}
+      {% endfor %}
+    </div>
+  </div>
+</section>
+<!-- /blog -->
+
+<!--
 <div class="posts">
   {% for post in site.posts %}
     <article class="post">
@@ -17,4 +30,4 @@ layout: default
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
-</div>
+</div> -->

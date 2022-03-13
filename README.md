@@ -1,6 +1,8 @@
-This is a preliminary setup of blog, forked from jekyll-now.
+This is a preliminary setup of blog, forked from jekyll-now, portfolio thumbs from themefisher/kross-jekyll
 
 Run locally with command `jekyll serve --livereload`
+
+Note: cards for blog entries prefer height=270px. Image is resized for width, height is cropped and centred.
 
 ### Next Steps:
  * Link to main domain name or link to CS
@@ -20,6 +22,8 @@ Run locally with command `jekyll serve --livereload`
   * https://github.com/jmcglone/jmcglone.github.io
   * https://github.com/academicpages/academicpages.github.io
   * https://github.com/alshedivat/al-folio
+  * https://github.com/nicolas-van/bootstrap-4-github-pages
+  * https://github.com/UriShX/Jekyll-portfolio
 
 ### Alternative Blog Options:
   * Hugo + Netlify   e.g. https://github.com/gcushen/hugo-academic

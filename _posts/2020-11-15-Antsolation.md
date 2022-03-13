@@ -1,6 +1,9 @@
 ---
 layout: post
 title: Antsolation
+image:  /images/posts/antsolation-thumb.png
+tags:   gamedev
+excerpt: Create a virtual ant farm and compete with your friends -- Oxford Hackathon 2020.
 ---
 Create a virtual ant farm and compete with your friends.
 
