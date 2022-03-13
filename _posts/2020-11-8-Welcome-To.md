@@ -1,7 +1,7 @@
 ---
 layout: post
-title: \'Welcome To...\' Card Drawing App
-image:  /images/posts/welcome-to.png
+title: \'Welcome To\' App
+image:  /images/posts/welcome-to-thumb.png
 tags:   gamedev
 excerpt: Card drawing app for the board game 'Welcome To...'
 ---

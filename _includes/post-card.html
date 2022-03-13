@@ -1,4 +1,4 @@
-<div class="col-lg-4 col-sm-6 mb-4">
+<div class="col-lg-3 col-sm-6 mb-4">
 
   <article class="card shadow">
 
@@ -12,7 +12,7 @@
       <h4 class="card-title">
         <a class="text-dark" href="{{ post.url | relative_url }}">{{ post.title | replace: "\", "" }}</a>
       </h4>
-      <p class="card-text">{% assign curlyend = '}' %}{{ post.excerpt | markdownify | strip_html | replace: "{% include JB/setup %", "" | replace: curlyend, "" | truncate: 96 }}</p>
+      <p class="card-text">{% assign curlyend = '}' %}{{ post.excerpt | markdownify | strip_html | replace: "{% include JB/setup %", "" | replace: curlyend, "" | truncate: 66 }}</p>
       <!-- <a href="{{ post.url | relative_url }}" class="btn btn-xs btn-primary">Read More</a> -->
     </div>
 

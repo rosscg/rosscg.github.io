@@ -1,6 +1,8 @@
 TODO:
 * Better breakpoint alternative to <br/><br/><br/><br/><br/> in Antsolation post
 * Add gifs to entries
+* Better handle smaller screen resolutions -- eg. .card-body{height}
+* link static content -- useful thesis images, slide decks, portrait etc
 
 This is a preliminary setup of blog, forked from jekyll-now, portfolio thumbs from themefisher/kross-jekyll
 
