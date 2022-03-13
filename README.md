@@ -1,3 +1,7 @@
+TODO:
+* Better breakpoint alternative to <br/><br/><br/><br/><br/> in Antsolation post
+* Add gifs to entries
+
 This is a preliminary setup of blog, forked from jekyll-now, portfolio thumbs from themefisher/kross-jekyll
 
 Run locally with command `jekyll serve --livereload`

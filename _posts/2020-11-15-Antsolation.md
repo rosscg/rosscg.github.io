@@ -6,16 +6,19 @@ tags:   gamedev
 excerpt: Create a virtual ant farm and compete with your friends -- Oxford Hackathon 2020.
 ---
 Create a virtual ant farm and compete with your friends.
+<br/>
+<br/>
 
-[**<<LAUNCH ANTSOLATION>>**]({{ site.baseurl }}/apps/Antsolation.html){:target="_blank"}
+<iframe width="640" height="360" src="https://www.youtube.com/embed/y299m0jmlbo" frameborder="0"  style="float: left;margin-left: 6px; margin-right: 22px; margin-top: 0px;" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br/><br/><br/>
+[**<<Launch in Browser>>**]({{ site.baseurl }}/apps/Antsolation.html){:target="_blank"}
 
-Note: importing and exporting ants is currently not supported for browser version -- download an executable instead.
-
-[**Download for Mac**]({{ site.baseurl }}/apps/AntsolationMac.dmg){:target="_blank"}
-
+[**Download for Mac**]({{ site.baseurl }}/apps/AntsolationMac.dmg){:target="_blank"}\
 [**Download for Windows**]({{ site.baseurl }}/apps/AntsolationWin.zip){:target="_blank"}
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/y299m0jmlbo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+Note: Multiplayer (i.e. importing and exporting ant colonies) is not supported for the browser version
+
+<br/><br/><br/><br/><br/>
 
 #### Motivation:
 The motivation for this game was to develop a game which fostered [tend and befriend](https://en.wikipedia.org/wiki/Tend_and_befriend) behaviour; giving players something to take care of during periods of social isolation. The game is designed to require infrequent input from the user, simulating an ecosystem which the user can influence and observe.
