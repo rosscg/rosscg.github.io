@@ -8,6 +8,10 @@ This is a preliminary setup of blog, forked from jekyll-now, portfolio thumbs fr
 
 Run locally with command `jekyll serve --livereload`
 
+If required, install required gems first:
+`gem install --user-install jekyll-sitemap`
+`gem install --user-install jekyll-feed -v 0.13`
+
 Note: cards for blog entries prefer height=270px. Image is resized for width, height is cropped and centred.
 
 ### Next Steps:
