@@ -1,8 +1,10 @@
 ---
 layout: page
 title: Resource Links
-permalink: /resources.html
+permalink: /res.html
 ---
+
+[Resume]({{ site.baseurl }}/res/RG-resume.pdf)
 
 [Portrait Image]({{ site.baseurl }}/images/portrait.jpg)
 
