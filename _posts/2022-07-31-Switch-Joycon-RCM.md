@@ -29,7 +29,7 @@ Once the rail is removed, the pin breakouts can be seen on the bottom of the rai
 
 <img src="/images/posts/joycon-pins.jpg" alt="Joycon pins" width="600"/>
 
-Two wires are soldered to the back sides of pins 7 and 10 and run along the rail's board. As the internals of the joycon case are tightly-fit, sheathed wires are difficult to find spare for. Therefore, a stranded wire is stripped and two strands used -- be careful that the paths used for these wires do not connect to other metal areas and create shorts. The wires can be seen in the picture of the completed installation below and are highlighted in the adjacent picture. Note the extra slack in the right (blue) wire to allow for the travel of the button.
+Two wires are soldered to the back sides of pins 7 and 10 and run along the rail's board. As the internals of the joycon case are tightly-fit, sheathed wires are difficult to find spare for. Therefore, a stranded wire is stripped and two strands used -- be careful that the paths used for these wires do not connect to other metal areas and create shorts. The wires can be seen in the picture of the completed installation below and are highlighted in the adjacent picture. Note the extra slack in the right (green) wire to allow for the travel of the button.
 
 <table><tr>
   <td>
