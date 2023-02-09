@@ -1,2 +1,5 @@
 User-agent: *
 Disallow: /exampleDirectory/
+Disallow: /bank.html
+Disallow: /res/
+Disallow: /res.html
